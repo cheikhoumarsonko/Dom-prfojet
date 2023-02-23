@@ -1,0 +1,95 @@
+h1{
+    text-align: center;
+    margin-top: 90px;
+    color: orange;
+    font-size:xx-large;
+}
+.photo1{
+    margin: right 80px;
+    width: 20px;
+    height: 10px;
+    margin-left: 60px;
+}
+.rive{
+margin-left: 800px;
+text-align: center;
+margin-top: -40px;
+}
+.prix{
+    margin-left: 40px;
+    color: orange;
+    margin-top: -20px;
+    font-size: x-large;
+    margin-top:20px;
+}
+.plus{
+    margin-left: 70px;
+    text-align: center;
+    margin-top: 20px;
+}
+.nombre{
+    margin-left: 60px;
+    text-align: center;
+    margin-top: 20px;
+}
+.moins{
+    margin-left: 60px;
+    text-align: center;
+    margin-top: 20px;
+}
+.cheikh{
+    text-align: center;
+    margin-left:  800px;
+    margin-top: -30px;
+}
+.boutton{
+    text-align: center;
+    margin-left: 1020px; 
+    margin-top: 300px;  
+}
+.omar{
+margin-left: 700px;
+}
+.mome{
+    margin-left: 1350px;
+    margin-top: -10px;
+}
+.rara{
+    margin-top:-20px;
+    margin-left:950px;
+}
+.home{
+    margin-top:-700px;
+    margin: left 50px; 
+}
+.sonko{
+    margin-left: 100px;
+    margin-top: -80px;
+}
+.rose{
+    margin-left: 190px;
+    color: orange;
+}
+.leuz{
+    margin-left: 400px;
+    margin-top: -40px;
+}
+.bouba{
+    margin-top: -20px;
+    margin-left: 60px;
+}
+
+.ousmane{
+    display: flex;
+    margin-top: 30px;
+        margin-left: 180px;
+}
+.pout{
+    margin-right: 30px;
+}
+.henry{
+    margin-left: 40px;
+}
+.seny{
+    margin-left:40px;
+}
